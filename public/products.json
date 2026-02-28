@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Traditional Marigold Toran",
+    "category": "Toran",
+    "price": 899,
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Boho Macrame Wall Hanging",
+    "category": "Wall Decor",
+    "price": 1499,
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hand-painted Diya Set",
+    "category": "Crafts",
+    "price": 450,
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Festive Pearl Door Toran",
+    "category": "Toran",
+    "price": 1200,
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Embroidered Wall Hoop Art",
+    "category": "Wall Decor",
+    "price": 750,
+    "image": "/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Terracotta Ganesha Idol",
+    "category": "Crafts",
+    "price": 1100,
+    "image": "/images/6.jpg"
+  }
+]
